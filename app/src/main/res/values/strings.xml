@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Elyments Assessment</string>
+    <string name="firebase_token">Firebase token : %s</string>
+    <string name="instructions">Instructions: \n
+        1. Modularize the code and add proper comments \n
+        2. Fix the UI alignment in List Screen \n
+        3. Retrieve the id from push notification, search in db, get the detail information like name for that id and show in notification tray. \n
+        4. When user tap on the notification, show the information like id, name, etc., in detail screen. \n
+        5. Also allow user to update the information back to db while hitting Save button. \n
+        6. (Optional) Implement pull to refresh in list screen and item click to view the detail.
+    </string>
+    <string name="update_success">Record updated successfully.</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="detail">Detail</string>
+</resources>

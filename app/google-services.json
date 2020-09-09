@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845432311953",
+    "firebase_url": "https://payoda-mobile-assessment.firebaseio.com",
+    "project_id": "payoda-mobile-assessment",
+    "storage_bucket": "payoda-mobile-assessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845432311953:android:460d65e28cd53216816f30",
+        "android_client_info": {
+          "package_name": "com.elyments.assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845432311953-32puj4e1stm4dolao688cn1fjgn1ae68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClUPpTL3gSuPtsGKvMdchshjsuPaBVx38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845432311953-32puj4e1stm4dolao688cn1fjgn1ae68.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845432311953-6leka7c0kij9qps5n03e6msbtegk4kd8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elyments.assessment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
